@@ -3,7 +3,7 @@ A simple Bash Shell Script Database Management System (DBMS), created by @HIMANG
 
 IF YOU WANT TO CLONE THIS DIRECTORY USE THIS COMMAND
 
-~ git clone 
+~ git clone   https://github.com/Himangshu30/DBMS-Shell-/tree/main 
 
 The Project aim to develop DBMS, that will enable users to store and retrieve the data from Hard-disk.
 
