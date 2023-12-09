@@ -242,14 +242,8 @@ echo
 echo ----------------------------------------------------------
 echo Hello, `whoami`!! Welcom to our database managment system
 echo
-echo Created by Amr Yasser and Mohamed Hagagy @ ITI-Qena-Python
-echo ----------------------------------------------------------
-echo
-echo  _________________Main Menu________________
-while true
-do
-PS3="Your Choice Is: "
-choice=read
+echo Created by @Himangshu
+
 	select choice in "create database" "List Databases" "Connect to databases " "Drop Database" "Exit from DBMS" 
 	do
 	case $REPLY in
